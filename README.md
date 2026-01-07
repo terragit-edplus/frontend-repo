@@ -4,7 +4,7 @@
 ---
 
 ## 🧭 Overview
-> _Provide a high-level overview of the project._  
+Frontend test repo
 
 
 ---
