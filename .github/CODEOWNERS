@@ -3,3 +3,4 @@
 # This CODEOWNERS file is managed by Terraform
 # ----------------------------------------------------------------------
 * @svenk163
+.husky/* @svenk163
