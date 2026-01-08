@@ -1,0 +1,6 @@
+# ----------------------------------------------------------------------
+# DO NOT MODIFY THIS FILE DIRECTLY
+# This CODEOWNERS file is managed by Terraform
+# ----------------------------------------------------------------------
+* @svenk163
+.husky/* @svenk163
